@@ -1,0 +1,1 @@
+Loss: 1.3695 after 100 EPOCHS
